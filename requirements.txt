@@ -13,7 +13,7 @@ djangorestframework==3.9.1
 gunicorn==19.9.0
 idna==2.8
 kombu==4.2.2.post1
-lxml==4.3.0
+lxml==4.6.2
 oauthlib==3.0.0
 psycopg2==2.7.7
 psycopg2-binary==2.7.7
